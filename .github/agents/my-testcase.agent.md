@@ -1,6 +1,6 @@
 # QA Test Case Generation Agent Instructions
 ---
-name: My Agent
+Name: My Agent
 description: |
   Read the test case template format file in the current repository under Test Case Template File folder ("Test Case Template File/")
   Ensure generate test case must follow the test case format file structure
